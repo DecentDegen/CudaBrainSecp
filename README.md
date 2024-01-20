@@ -222,7 +222,7 @@ So using the latest generation hardware & CUDA drivers has a big advantage.
 If you enjoy this project please consider buying me a coffee.<br>
 Any support would be greatly appreciated.<br>
 
-[![coffeeSmol](https://user-images.githubusercontent.com/8969128/185217689-be09e29f-321f-4aaa-a20a-3a867a86d3f8.png)](https://buymeacoffee.com/kpurens)
+[![coffeeSmol](https://user-images.githubusercontent.com/8969128/185217689-be09e29f-321f-4aaa-a20a-3a867a86d3f8.png)](https://www.buymeacoffee.com/cyract)
 
 ## :copyright: Credits / References
 - [Jean Luc PONS Secp256k1 Math library](https://github.com/JeanLucPons/VanitySearch) (Nice set of Secp256k1 Math operations / functions)
